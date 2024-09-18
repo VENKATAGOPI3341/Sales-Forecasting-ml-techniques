@@ -46,11 +46,31 @@ Store managers face challenges in accurately predicting sales due to varying inf
 ## Model Interpretability
 - **SHAP (SHapley Additive exPlanations)**: Offers insights into the impact of each feature on model predictions.
 - **LIME (Local Interpretable Model-agnostic Explanations)**: Provides explanations for individual predictions.
+  
+## Usage
+Run the Jupyter notebooks or Python scripts located in the `notebooks/` and `scripts/` directories to perform data analysis, model training, and evaluation.
 
-## Installation
-Clone the repository and install the necessary packages:
+## Contributing
+Feel free to open issues or submit pull requests with improvements or fixes. Contributions are welcome!
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- XGBoost
+- Decision Tree and Random Forest
+- Elastic Net
+- Lasso and Ridge
+- AdaBoost
+- SARIMAX
+- SHAP
+- LIME
+- Facebook Prophet
 
 ```bash
-[git clone https://github.com/VENKATAGOPI3341/Sales-Forecasting-ml-techniques.git]
-cd Sales-Forecasting-ml-techniques
+git clone https://github.com/yourusername/sales-forecasting-ml-techniques.git
+cd sales-forecasting-ml-techniques
 pip install -r requirements.txt
+
+
+
