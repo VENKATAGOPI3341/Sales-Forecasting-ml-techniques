@@ -51,6 +51,6 @@ Store managers face challenges in accurately predicting sales due to varying inf
 Clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/yourusername/sales-forecasting-project.git
-cd sales-forecasting-project
+[git clone https://github.com/VENKATAGOPI3341/Sales-Forecasting-ml-techniques.git]
+cd Sales-Forecasting-ml-techniques
 pip install -r requirements.txt
