@@ -71,8 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/yourusername/sales-forecasting-ml-techniques.git
-cd sales-forecasting-ml-techniques
+git clone https://github.com/VENKATAGOPI3341/Sales-Forecasting-ml-techniques.git
+cd Sales-Forecasting-ml-techniques
 pip install -r requirements.txt
 
 
