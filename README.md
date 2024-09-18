@@ -67,6 +67,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - LIME
 - Facebook Prophet
 
+## Installation
+Clone the repository and install the necessary packages:
+
 ```bash
 git clone https://github.com/yourusername/sales-forecasting-ml-techniques.git
 cd sales-forecasting-ml-techniques
